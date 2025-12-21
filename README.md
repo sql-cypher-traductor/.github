@@ -13,9 +13,10 @@ El sistema está desacoplado en una arquitectura modular para facilitar la escal
 
 | Componente | Repositorio | Descripción | Tecnologías |
 | :--- | :--- | :--- | :--- |
-| 🧠 **Lógica** | [**backend-middleware**](https://github.com/sql-cypher-traductor/backend-middleware) | API REST encargada de la lógica de negocio y base de datos. | `Python` `SQL` `Cypher` |
-| 💻 **Interfaz** | [**frontend-middleware**](https://github.com/sql-cypher-traductor/frontend-middleware) | Aplicación Web para la interacción del usuario. | `NextJS` `React` `TypeScript` |
+| 🧠 **Lógica** | [**backend**](https://github.com/sql-cypher-traductor/backend-middleware) | API REST encargada de la lógica de negocio y base de datos. | `Python` `SQL` `Cypher` |
+| 💻 **Interfaz** | [**frontend**](https://github.com/sql-cypher-traductor/frontend-middleware) | Aplicación Web para la interacción del usuario. | `NextJS` `React` `TypeScript` |
 | 📄 **Escrito** | [**tesis**](https://github.com/sql-cypher-traductor/tesis) | Documento de tesis. | `LaTeX` `BibTeX` |
+| 🔎 **Anexos** | [**anexos**](https://github.com/sql-cypher-traductor/anexos) | Anexos de tesis. | Archivos `PDF`, `Excel` e imágenes |
 
 ---
 
@@ -23,7 +24,7 @@ El sistema está desacoplado en una arquitectura modular para facilitar la escal
 
 * **Backend:** FastAPI
 * **Frontend:** NextJS
-* **Base de Datos:** SQL Server / Neo4J]
+* **Base de Datos:** SQL Server / Neo4j
 * **Documentación:** LaTeX
 
 ---
