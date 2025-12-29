@@ -2,8 +2,7 @@
 
 Proyecto de titulación para la carrera de **Ingeniería de Software** de la **Escuela Politécnica Nacional**.
 
-> **Tema:** Desarrollo de un Middleware para la Traducción de Consultas SQL a un Sistema de Base Datos
-Orientadas a Grafos.
+> **Tema:** Desarrollo de un Middleware para la Traducción de Consultas SQL a un Sistema de Base Datos Orientadas a Grafos.
 
 ---
 
